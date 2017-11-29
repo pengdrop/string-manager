@@ -1,3 +1,3 @@
 # String Manager
 
-Made by Safflower (fuzzer@nate.com)
+Encode, Hash, Replace, Convert string
