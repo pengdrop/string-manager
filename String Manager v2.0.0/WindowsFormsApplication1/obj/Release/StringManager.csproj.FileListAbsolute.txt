@@ -1,9 +1,0 @@
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.csprojResolveAssemblyReference.cache
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.Properties.Resources.resources
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.csproj.GenerateResource.Cache
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\StringManager.exe.config
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\StringManager.exe
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\StringManager.pdb
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.exe
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.pdb
-C:\Users\Safflower\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\StringManager.frmMain.resources

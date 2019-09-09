@@ -1,0 +1,10 @@
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\bin\Debug\StringManager.exe.config
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\bin\Debug\StringManager.exe
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\bin\Debug\StringManager.pdb
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.csprojAssemblyReference.cache
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.frmMain.resources
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.Properties.Resources.resources
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.csproj.GenerateResource.cache
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.csproj.CoreCompileInputs.cache
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.exe
+C:\Users\plzdo\Documents\GitHub\string-manager\v2.0.1\WindowsFormsApplication1\obj\Debug\StringManager.pdb
